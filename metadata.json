@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS — Autonomous Support Engineer",
+  "description": "AI-Powered Autonomous Support Engineering Platform for enterprise incident investigation, root cause analysis, automated remediation, and escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
